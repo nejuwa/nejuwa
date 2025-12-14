@@ -7,7 +7,7 @@ I use Git and GitHub to manage projects, track progress, and document my learnin
 
 ![Nejat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&exclude_repo=repo1,repo2)
 
 ## Teck Stack
 
