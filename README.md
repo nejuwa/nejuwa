@@ -5,9 +5,10 @@ I actively practice competitive programming on Codeforces to strengthen my probl
 I build clean and responsive user interfaces using HTML, CSS, JavaScript, and TypeScript.
 I use Git and GitHub to manage projects, track progress, and document my learning.
 
-![Nejat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Nejat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=0)
+![Nejat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&cache_seconds=0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&exclude_repo=repo1,repo2)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&exclude_repo=repo1,repo2) -->
 
 ## Teck Stack
 
